@@ -9,8 +9,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/kirtisingh1421/LeetCode/tree/master/0015-3sum) |
+| [0202-happy-number](https://github.com/kirtisingh1421/LeetCode/tree/master/0202-happy-number) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/kirtisingh1421/LeetCode/tree/master/0015-3sum) |
+## Hash Table
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/kirtisingh1421/LeetCode/tree/master/0202-happy-number) |
+## Math
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/kirtisingh1421/LeetCode/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
