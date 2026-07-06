@@ -7,17 +7,29 @@
 //     }
 // }
 
-//Method 2 using bit manipulation..
+//Method 2 using bit manipulation.(tc&sc = O(logn))
+// class Solution {
+//     public boolean isPowerOfTwo(int n) {
+//         if(n ==0) return false;
+//         if(n < 0) return false;
+//         if(n == 1) return true;
+//         if(n % 2 == 1) return false;
+//         return isPowerOfTwo(n/2);
+//     }
+// }
+
+//Method 3 using bit manipulation.(tc = O(logn) & sc = O(1))
 class Solution {
     public boolean isPowerOfTwo(int n) {
         if(n ==0) return false;
         if(n < 0) return false;
-        if(n == 1) return true;
-        if(n % 2 == 1) return false;
-        return isPowerOfTwo(n/2);
+       while(n > 1){
+        if(n%2==1) return false;
+        n /=2;
+       }
+       return true;
     }
 }
-
 
 //by using recursion.
 // class Solution {
