@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/kirtisingh1421/LeetCode/tree/master/0050-powx-n) |
 | [0202-happy-number](https://github.com/kirtisingh1421/LeetCode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/kirtisingh1421/LeetCode/tree/master/0231-power-of-two) |
 ## Bit Manipulation
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/kirtisingh1421/LeetCode/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/kirtisingh1421/LeetCode/tree/master/0231-power-of-two) |
 ## Greedy
 |  |
