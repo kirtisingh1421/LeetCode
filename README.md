@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/kirtisingh1421/LeetCode/tree/master/0015-3sum) |
+| [0260-single-number-iii](https://github.com/kirtisingh1421/LeetCode/tree/master/0260-single-number-iii) |
 | [0861-score-after-flipping-matrix](https://github.com/kirtisingh1421/LeetCode/tree/master/0861-score-after-flipping-matrix) |
 ## Two Pointers
 |  |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/kirtisingh1421/LeetCode/tree/master/0231-power-of-two) |
+| [0260-single-number-iii](https://github.com/kirtisingh1421/LeetCode/tree/master/0260-single-number-iii) |
 | [0342-power-of-four](https://github.com/kirtisingh1421/LeetCode/tree/master/0342-power-of-four) |
 | [0861-score-after-flipping-matrix](https://github.com/kirtisingh1421/LeetCode/tree/master/0861-score-after-flipping-matrix) |
 ## Recursion
