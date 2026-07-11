@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/kirtisingh1421/LeetCode/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/kirtisingh1421/LeetCode/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/kirtisingh1421/LeetCode/tree/master/0260-single-number-iii) |
 | [0342-power-of-four](https://github.com/kirtisingh1421/LeetCode/tree/master/0342-power-of-four) |
@@ -48,4 +49,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0861-score-after-flipping-matrix](https://github.com/kirtisingh1421/LeetCode/tree/master/0861-score-after-flipping-matrix) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/kirtisingh1421/LeetCode/tree/master/0190-reverse-bits) |
 <!---LeetCode Topics End-->
