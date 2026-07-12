@@ -53,4 +53,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/kirtisingh1421/LeetCode/tree/master/0190-reverse-bits) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/kirtisingh1421/LeetCode/tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/kirtisingh1421/LeetCode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
