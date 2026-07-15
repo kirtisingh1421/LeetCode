@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/kirtisingh1421/LeetCode/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/kirtisingh1421/LeetCode/tree/master/0027-remove-element) |
 | [0054-spiral-matrix](https://github.com/kirtisingh1421/LeetCode/tree/master/0054-spiral-matrix) |
+| [0118-pascals-triangle](https://github.com/kirtisingh1421/LeetCode/tree/master/0118-pascals-triangle) |
 | [0260-single-number-iii](https://github.com/kirtisingh1421/LeetCode/tree/master/0260-single-number-iii) |
 | [0861-score-after-flipping-matrix](https://github.com/kirtisingh1421/LeetCode/tree/master/0861-score-after-flipping-matrix) |
 ## Two Pointers
@@ -69,4 +70,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/kirtisingh1421/LeetCode/tree/master/0054-spiral-matrix) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/kirtisingh1421/LeetCode/tree/master/0118-pascals-triangle) |
 <!---LeetCode Topics End-->
