@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/kirtisingh1421/LeetCode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/kirtisingh1421/LeetCode/tree/master/0268-missing-number) |
 | [0322-coin-change](https://github.com/kirtisingh1421/LeetCode/tree/master/0322-coin-change) |
+| [0494-target-sum](https://github.com/kirtisingh1421/LeetCode/tree/master/0494-target-sum) |
 | [0746-min-cost-climbing-stairs](https://github.com/kirtisingh1421/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [0861-score-after-flipping-matrix](https://github.com/kirtisingh1421/LeetCode/tree/master/0861-score-after-flipping-matrix) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/kirtisingh1421/LeetCode/tree/master/1277-count-square-submatrices-with-all-ones) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/kirtisingh1421/LeetCode/tree/master/0118-pascals-triangle) |
 | [0198-house-robber](https://github.com/kirtisingh1421/LeetCode/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/kirtisingh1421/LeetCode/tree/master/0322-coin-change) |
+| [0494-target-sum](https://github.com/kirtisingh1421/LeetCode/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/kirtisingh1421/LeetCode/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/kirtisingh1421/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/kirtisingh1421/LeetCode/tree/master/1277-count-square-submatrices-with-all-ones) |
@@ -124,8 +126,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/kirtisingh1421/LeetCode/tree/master/0322-coin-change) |
+| [0494-target-sum](https://github.com/kirtisingh1421/LeetCode/tree/master/0494-target-sum) |
 ## Complete Knapsack
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/kirtisingh1421/LeetCode/tree/master/0322-coin-change) |
+## Backtracking
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/kirtisingh1421/LeetCode/tree/master/0494-target-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/kirtisingh1421/LeetCode/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
