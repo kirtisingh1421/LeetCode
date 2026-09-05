@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/kirtisingh1421/LeetCode/tree/master/0020-valid-parentheses) |
 | [0345-reverse-vowels-of-a-string](https://github.com/kirtisingh1421/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
+| [1143-longest-common-subsequence](https://github.com/kirtisingh1421/LeetCode/tree/master/1143-longest-common-subsequence) |
 ## Stack
 |  |
 | ------- |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/kirtisingh1421/LeetCode/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/kirtisingh1421/LeetCode/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/kirtisingh1421/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
+| [1143-longest-common-subsequence](https://github.com/kirtisingh1421/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/kirtisingh1421/LeetCode/tree/master/1277-count-square-submatrices-with-all-ones) |
 ## Binary Search
 |  |
@@ -139,4 +141,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/kirtisingh1421/LeetCode/tree/master/0494-target-sum) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/kirtisingh1421/LeetCode/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
