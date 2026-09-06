@@ -17,7 +17,7 @@ class Solution {
         if(a.charAt(i) == b.charAt(j)) return dp[i][j] = edit(i-1,j-1,a,b,dp);
         int replace = 1 + edit(i-1,j-1,a,b,dp);
         int remove = 1 + edit(i-1,j,a,b,dp);
-        int rename = 1 + edit(i,j-1,a,b,dp);
-        return dp[i][j] = Math.min(replace, Math.min(rename,remove));
+        int insert = 1 + edit(i,j-1,a,b,dp);
+        return dp[i][j] = Math.min(replace, Math.min(insert,remove));
     }
 }
