@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/kirtisingh1421/LeetCode/tree/master/0198-house-robber) |
 | [0260-single-number-iii](https://github.com/kirtisingh1421/LeetCode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/kirtisingh1421/LeetCode/tree/master/0268-missing-number) |
+| [0300-longest-increasing-subsequence](https://github.com/kirtisingh1421/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/kirtisingh1421/LeetCode/tree/master/0322-coin-change) |
 | [0494-target-sum](https://github.com/kirtisingh1421/LeetCode/tree/master/0494-target-sum) |
 | [0746-min-cost-climbing-stairs](https://github.com/kirtisingh1421/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/kirtisingh1421/LeetCode/tree/master/0072-edit-distance) |
 | [0118-pascals-triangle](https://github.com/kirtisingh1421/LeetCode/tree/master/0118-pascals-triangle) |
 | [0198-house-robber](https://github.com/kirtisingh1421/LeetCode/tree/master/0198-house-robber) |
+| [0300-longest-increasing-subsequence](https://github.com/kirtisingh1421/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/kirtisingh1421/LeetCode/tree/master/0322-coin-change) |
 | [0494-target-sum](https://github.com/kirtisingh1421/LeetCode/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/kirtisingh1421/LeetCode/tree/master/0509-fibonacci-number) |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/kirtisingh1421/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0268-missing-number](https://github.com/kirtisingh1421/LeetCode/tree/master/0268-missing-number) |
+| [0300-longest-increasing-subsequence](https://github.com/kirtisingh1421/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 ## Linked List
 |  |
 | ------- |
@@ -147,4 +150,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/kirtisingh1421/LeetCode/tree/master/1143-longest-common-subsequence) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/kirtisingh1421/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
