@@ -1,24 +1,53 @@
-//TABULATION.
-
+//BINARY SEARCH.
 class Solution {
     public int lengthOfLIS(int[] nums) {
-        int n = nums.length;
-        int[] dp = new int [n];
-        int maxlen = 1;
-        Arrays.fill(dp,1);
-        for(int i=0;i<n;i++){
-            int max = 0;
-            for(int j=0;j<i;j++){
-                if(nums[j] < nums[i]){
-                    max = Math.max(max,dp[j]);
-                }
-            }
-            dp[i] += max;
-            maxlen = Math.max(maxlen, dp[i]);
+        ArrayList<Integer> ans = new ArrayList<>();
+        for(int ele : nums){
+            if(ans.size() == 0 || ele > ans.get(ans.size()-1)) ans.add(ele);
+            else replace(ele,ans);
         }
-        return maxlen;
+        return ans.size();
+    }
+    public int replace(int ele, ArrayList<Integer> ans){
+        int l = 0;
+        int h = ans.size()-1;
+        int lb = -1;
+        while(l <= h){
+            int mid = l + (h-l)/2;
+            if(ans.get(mid) >= ele){
+                lb = mid;
+                h = mid-1;
+            }
+            else l = mid+1;
+        }
+        return ans.set(lb,ele);
     }
 }
+
+
+
+
+//TABULATION.
+
+// class Solution {
+//     public int lengthOfLIS(int[] nums) {
+//         int n = nums.length;
+//         int[] dp = new int [n];
+//         int maxlen = 1;
+//         Arrays.fill(dp,1);
+//         for(int i=0;i<n;i++){
+//             int max = 0;
+//             for(int j=0;j<i;j++){
+//                 if(nums[j] < nums[i]){
+//                     max = Math.max(max,dp[j]);
+//                 }
+//             }
+//             dp[i] += max;
+//             maxlen = Math.max(maxlen, dp[i]);
+//         }
+//         return maxlen;
+//     }
+// }
 
 //MEMOIZATION.
 
