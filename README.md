@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/kirtisingh1421/LeetCode/tree/master/0027-remove-element) |
 | [0202-happy-number](https://github.com/kirtisingh1421/LeetCode/tree/master/0202-happy-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/kirtisingh1421/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0647-palindromic-substrings](https://github.com/kirtisingh1421/LeetCode/tree/master/0647-palindromic-substrings) |
 ## Sorting
 |  |
 | ------- |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/kirtisingh1421/LeetCode/tree/master/0020-valid-parentheses) |
 | [0072-edit-distance](https://github.com/kirtisingh1421/LeetCode/tree/master/0072-edit-distance) |
 | [0345-reverse-vowels-of-a-string](https://github.com/kirtisingh1421/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0647-palindromic-substrings](https://github.com/kirtisingh1421/LeetCode/tree/master/0647-palindromic-substrings) |
 | [1143-longest-common-subsequence](https://github.com/kirtisingh1421/LeetCode/tree/master/1143-longest-common-subsequence) |
 ## Stack
 |  |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0354-russian-doll-envelopes](https://github.com/kirtisingh1421/LeetCode/tree/master/0354-russian-doll-envelopes) |
 | [0494-target-sum](https://github.com/kirtisingh1421/LeetCode/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/kirtisingh1421/LeetCode/tree/master/0509-fibonacci-number) |
+| [0647-palindromic-substrings](https://github.com/kirtisingh1421/LeetCode/tree/master/0647-palindromic-substrings) |
 | [0746-min-cost-climbing-stairs](https://github.com/kirtisingh1421/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [1143-longest-common-subsequence](https://github.com/kirtisingh1421/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/kirtisingh1421/LeetCode/tree/master/1277-count-square-submatrices-with-all-ones) |
