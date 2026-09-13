@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/kirtisingh1421/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/kirtisingh1421/LeetCode/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/kirtisingh1421/LeetCode/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/kirtisingh1421/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0054-spiral-matrix](https://github.com/kirtisingh1421/LeetCode/tree/master/0054-spiral-matrix) |
 | [0118-pascals-triangle](https://github.com/kirtisingh1421/LeetCode/tree/master/0118-pascals-triangle) |
 | [0198-house-robber](https://github.com/kirtisingh1421/LeetCode/tree/master/0198-house-robber) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/kirtisingh1421/LeetCode/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/kirtisingh1421/LeetCode/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/kirtisingh1421/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0202-happy-number](https://github.com/kirtisingh1421/LeetCode/tree/master/0202-happy-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/kirtisingh1421/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0647-palindromic-substrings](https://github.com/kirtisingh1421/LeetCode/tree/master/0647-palindromic-substrings) |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/kirtisingh1421/LeetCode/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/kirtisingh1421/LeetCode/tree/master/0042-trapping-rain-water) |
 ## Simulation
 |  |
 | ------- |
@@ -100,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/kirtisingh1421/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/kirtisingh1421/LeetCode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/kirtisingh1421/LeetCode/tree/master/0072-edit-distance) |
 | [0118-pascals-triangle](https://github.com/kirtisingh1421/LeetCode/tree/master/0118-pascals-triangle) |
@@ -167,4 +171,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1757-recyclable-and-low-fat-products](https://github.com/kirtisingh1421/LeetCode/tree/master/1757-recyclable-and-low-fat-products) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/kirtisingh1421/LeetCode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
