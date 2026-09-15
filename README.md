@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/kirtisingh1421/LeetCode/tree/master/0322-coin-change) |
 | [0354-russian-doll-envelopes](https://github.com/kirtisingh1421/LeetCode/tree/master/0354-russian-doll-envelopes) |
 | [0494-target-sum](https://github.com/kirtisingh1421/LeetCode/tree/master/0494-target-sum) |
+| [0735-asteroid-collision](https://github.com/kirtisingh1421/LeetCode/tree/master/0735-asteroid-collision) |
 | [0746-min-cost-climbing-stairs](https://github.com/kirtisingh1421/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [0861-score-after-flipping-matrix](https://github.com/kirtisingh1421/LeetCode/tree/master/0861-score-after-flipping-matrix) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/kirtisingh1421/LeetCode/tree/master/1277-count-square-submatrices-with-all-ones) |
@@ -96,10 +97,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/kirtisingh1421/LeetCode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/kirtisingh1421/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0735-asteroid-collision](https://github.com/kirtisingh1421/LeetCode/tree/master/0735-asteroid-collision) |
 ## Simulation
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/kirtisingh1421/LeetCode/tree/master/0054-spiral-matrix) |
+| [0735-asteroid-collision](https://github.com/kirtisingh1421/LeetCode/tree/master/0735-asteroid-collision) |
 ## Dynamic Programming
 |  |
 | ------- |
