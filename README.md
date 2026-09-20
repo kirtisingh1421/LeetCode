@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/kirtisingh1421/LeetCode/tree/master/0050-powx-n) |
+| [0203-remove-linked-list-elements](https://github.com/kirtisingh1421/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0231-power-of-two](https://github.com/kirtisingh1421/LeetCode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/kirtisingh1421/LeetCode/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/kirtisingh1421/LeetCode/tree/master/0509-fibonacci-number) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0203-remove-linked-list-elements](https://github.com/kirtisingh1421/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0707-design-linked-list](https://github.com/kirtisingh1421/LeetCode/tree/master/0707-design-linked-list) |
 ## Design
 |  |
