@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/kirtisingh1421/LeetCode/tree/master/0007-reverse-integer) |
 | [0050-powx-n](https://github.com/kirtisingh1421/LeetCode/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/kirtisingh1421/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/kirtisingh1421/LeetCode/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/kirtisingh1421/LeetCode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/kirtisingh1421/LeetCode/tree/master/0231-power-of-two) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/kirtisingh1421/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0062-unique-paths](https://github.com/kirtisingh1421/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/kirtisingh1421/LeetCode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/kirtisingh1421/LeetCode/tree/master/0072-edit-distance) |
 | [0118-pascals-triangle](https://github.com/kirtisingh1421/LeetCode/tree/master/0118-pascals-triangle) |
@@ -185,4 +187,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/kirtisingh1421/LeetCode/tree/master/0042-trapping-rain-water) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/kirtisingh1421/LeetCode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
