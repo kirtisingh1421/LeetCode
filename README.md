@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/kirtisingh1421/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [0861-score-after-flipping-matrix](https://github.com/kirtisingh1421/LeetCode/tree/master/0861-score-after-flipping-matrix) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/kirtisingh1421/LeetCode/tree/master/1277-count-square-submatrices-with-all-ones) |
+| [1480-running-sum-of-1d-array](https://github.com/kirtisingh1421/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [3151-special-array-i](https://github.com/kirtisingh1421/LeetCode/tree/master/3151-special-array-i) |
 ## Two Pointers
 |  |
@@ -193,4 +194,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/kirtisingh1421/LeetCode/tree/master/0062-unique-paths) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/kirtisingh1421/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
